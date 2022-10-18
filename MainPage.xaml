@@ -10,9 +10,8 @@
             Padding="30,0"
             VerticalOptions="Center">
 
-            <controls:ExpandableList>
-                
-            </controls:ExpandableList>
+            <controls:ExpandableList
+                x:Name="Test"/>
 
             <Image 
                 Source="dotnet_bot">
